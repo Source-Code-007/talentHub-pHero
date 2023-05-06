@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "company_logo": "https://i.ibb.co/C8gsyR3/icon-2.png",
+      "job_title": "Software Developer",
+      "company_name": "ABC Company",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka",
+      "fulltime_or_parttime": "Fulltime",
+      "salary": "Negotiable",
+      "job_description": "We are looking for a talented software developer to join our team...",
+      "job_responsibility": "Develop and maintain software applications...",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "At least 2 years of professional experience in software development",
+      "contact_information": {
+        "phone": "+880-123456789",
+        "email": "jobs@abccompany.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0_7MILijsZHLmJ1Uv6UrkdEej8PPNb-pGrU95oY&s",
+      "job_title": "Data Analyst",
+      "company_name": "XYZ Company",
+      "remote_or_onsite": "Remote",
+      "location": "Uttara, Dhaka",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "30,000 BDT/month",
+      "job_description": "We are seeking a detail-oriented and analytical Data Analyst...",
+      "job_responsibility": "Collect and interpret data...",
+      "educational_requirements": "Bachelor's degree in Statistics, Mathematics, or related field",
+      "experiences": "At least 1 year of experience in data analysis",
+      "contact_information": {
+        "phone": "+880-987654321",
+        "email": "jobs@xyzcompany.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://e7.pngegg.com/pngimages/470/798/png-clipart-graphic-design-art-creativity-design-leaf-logo.png",
+      "job_title": "Graphic Designer",
+      "company_name": "PQR Agency",
+      "remote_or_onsite": "Onsite",
+      "location": "Chittagong",
+      "fulltime_or_parttime": "Fulltime",
+      "salary": "25,000 BDT/month",
+      "job_description": "We are looking for a creative Graphic Designer...",
+      "job_responsibility": "Design and create visuals...",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+      "experiences": "At least 1 year of professional experience in graphic design",
+      "contact_information": {
+        "phone": "+880-234567890",
+        "email": "jobs@pqragency.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://i.ibb.co/fFYdNGy/pngegg.png",
+      "job_title": "Marketing Manager",
+      "company_name": "LMN Corporation",
+      "remote_or_onsite": "Onsite",
+      "location": "Sylhet",
+      "fulltime_or_parttime": "Fulltime",
+      "salary": "Negotiable",
+      "job_description": "We are seeking an experienced Marketing Manager...",
+      "job_responsibility": "Develop and implement marketing strategies...",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "At least 5 years of professional experience in marketing management",
+      "contact_information": {
+        "phone": "+880-345678901",
+        "email": "jobs@lmncorporation.com"
+      }
+  },
+  {
+    "id": 5,
+    "company_logo": "https://i.ibb.co/mXwcCv0/icon-3.png",
+    "job_title": "Consulting",
+    "company_name": "Brain ghost",
+    "remote_or_onsite": "Onsite",
+    "location": "Rangpur",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "Negotiable",
+    "job_description": "Our company is seeking consultation services.",
+    "job_responsibility": "Develop and implement Psycology strategies...",
+    "educational_requirements": "Bachelor's degree in Psycology or related field",
+    "experiences": "At least 2 years of professional experience in Psycology depertment",
+    "contact_information": {
+      "phone": "+880-345678901",
+      "email": "jobs@brainghost.com"
+    }
+},
+{
+  "id": 6,
+  "company_logo": "https://i.ibb.co/nbScmMh/pngwing-com.png",
+  "job_title": "Frontend Developer",
+  "company_name": "ZXX Ltd.",
+  "remote_or_onsite": "Onsite",
+  "location": "Mirpur, Dhaka",
+  "fulltime_or_parttime": "Part-time",
+  "salary": "Negotiable",
+  "job_description": "We are seeking a talented frontend developer to join our team and help us build beautiful and functional web applications.",
+  "job_responsibility": "Developing user-friendly web applications and collaborating with team members to ensure project completion.",
+  "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+  "experiences": "Minimum 2 years of experience in frontend development.",
+  "contact_information": {
+    "phone": "+8801234567890",
+    "email": "jobs@abccompany.com"
+  }
+}
+]
